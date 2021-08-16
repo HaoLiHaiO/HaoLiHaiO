@@ -16,5 +16,5 @@ I'm Alex.
 ---  	
 <h1>
   <a href="https://github.com/HaoLiHaiO"><img align="left" height="232rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaoLiHaiO&theme=onedark&hide_border=true&hide=html,css&langs_count=7" /></a>
-  <a href="https://github.com/HaoLiHaiO"><img align="center" height="232rem" src="https://github-readme-stats.vercel.app/api?username=HaoLiHaiO&include_all_commits=true&theme=onedark&show_icons=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs" /></a><br>
+  <a href="https://github.com/HaoLiHaiO"><img align="center" height="232rem" width="330rem" src="https://github-readme-stats.vercel.app/api?username=HaoLiHaiO&include_all_commits=true&theme=onedark&show_icons=true&count_private=true&hide_border=true&hide=stars,issues,prs,contribs" /></a><br>
 </h1>
