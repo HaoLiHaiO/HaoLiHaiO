@@ -1,10 +1,9 @@
-### Hi there 👋
-I'm Alex.
+### Hi there， 你好, Ciao zäme 👋
+I'm Alex. 我中文名叫子衿。
 
-- 📖 Currently learning about InfoSec
-- 📗 Improving my backend skills
-- 📫 Contact me: [contact form on my website](https://www.alexandrepinel.com) / [Twitter](https://twitter.com/HereticRamza) / [LinkedIn](https://www.linkedin.com/in/alexandre-pinel-045807128/)
-- 💬 Let's chat!
+- 📖 Constantly learning new things.
+- 📫 Contact me: [contact details on my website](https://www.alexandrepinel.com) / [Twitter](https://twitter.com/HereticRamza) / [LinkedIn](https://www.linkedin.com/in/alexandre-pinel-045807128/)
+- 💬 Let's chat! 我会说普通话。I chan au Schwizerdütsch. Ech schwätzen och Lëtzebuergesch. Ich kann natürlich auch Hochdeutsch 😅 Je parle français. 日本語を少し話します。Ik kan en beetje Nederlands. Говоря български.
 
 	
   [![OS:ArchLinux](https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux)](https://archlinux.org)
