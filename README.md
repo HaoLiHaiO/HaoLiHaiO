@@ -4,11 +4,26 @@
   <img src="archavatarwork.webp" width="33%" />
 </p>
 
-<p align="center" width="75%"> 
+<p align="center" width="75%">
 
 <ul align="center"> 📖 Constantly learning new things. </ul>
-<ul align="center"> 📫 Contact me: [contact details on my website](https://www.alexandrepinel.com) / [LinkedIn](https://www.linkedin.com/in/alexandre-pinel-045807128/) </ul>
-<ul align="center"> 💬 Let's chat! 我会说普通话。I chan au Schwizerdütsch. Ech schwätzen och Lëtzebuergesch. Ich kann natürlich auch Hochdeutsch 😅 Je parle français. 日本語を少し話します。Ik kan en beetje Nederlands. Говоря български. </ul>
+<ul align="center"> 📫 Contact me:   <a href="https://www.alexandrepinel.com">
+    <img alt="Image linking to alexandrepinel.com" src="https://img.shields.io/badge/-Website-0A0A0A?style=flat-square&logo=About.me&logoColor=white">
+  </a>
+  /
+  <a href="https://www.linkedin.com/in/alexandre-pinel-045807128/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a> </ul>
+<table align="center" style="width:50%;">
+  <tr>
+    <td>
+      <ul>
+        💬 Let's chat! 我会说普通话。I chan au Schwizerdütsch. Ech schwätzen och Lëtzebuergesch. Ich kann natürlich auch Hochdeutsch 😅 Je parle français. 日本語を少し話します。Ik kan en beetje Nederlands. Говоря български.
+      </ul>
+    </td>
+  </tr>
+</table>
+
 </p>
 
 <br>
@@ -34,8 +49,8 @@
   </a>
 </p>
 
-
 ---
+
 <br>
 <p align="center">
 <a href="https://www.linkedin.com/in/alexandre-pinel-ma-mcil-045807128/">
@@ -44,4 +59,3 @@
 <a href="https://github.com/HaoLiHaiO">
   <img alt="GitHub" src="https://img.shields.io/badge/-@HaoLiHaiO-181717?style=flat-square&logo=GitHub&logoColor=white"></a>
 </p>
-
