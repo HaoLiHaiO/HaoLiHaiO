@@ -1,7 +1,7 @@
 <h1 style="width:50%; margin: 0 auto;">Hi there，你好, Ciao zäme 👋 I'm Alex. 我中文名叫子衿。</h1>
 
 <p style="width:50%; margin: 0 auto;">
-    <img src="archavatarwork.webp" alt="HaoLiHaiO's avatar" style="width: 33%; display: block; margin: 0 auto;" />
+    <img src="archavatarwork.webp" alt="HaoLiHaiO's avatar" style="width: 33%; margin: 0 auto;" />
 </p>
 
 ---
@@ -12,8 +12,6 @@
 </p>
 
 ---
-
-<h3 style="width:50%; margin: 0 auto;">🧰 Tech Stack & Tools</h3>
 
 <p style="width:50%; margin: 0 auto;">
 
