@@ -1,65 +1,89 @@
-<h1 style="width:50%; margin: 0 auto;">Hi there，你好, Ciao zäme 👋 I'm Alex. 我中文名叫子衿。</h1>
-
-<p style="width:50%; margin: 0 auto;">
-    <img src="archavatarwork.webp" alt="HaoLiHaiO's avatar" style="width: 33%; margin: 0 auto;" />
+<p align="center">
+  <img src="assets/profile-banner.svg" alt="Alexandre Pinel. I build systems. Architecture, code, people and agents. Old-school roots. Agentic systems. Production consequences." width="100%">
 </p>
+
+<p align="center">
+  <a href="https://alexandrepinel.com">Website &amp; writing</a> ·
+  <a href="https://www.linkedin.com/in/alexandre-pinel-045807128/">LinkedIn</a> ·
+  <a href="https://github.com/HaoLiHaiO?tab=repositories">Explore the repos</a>
+</p>
+
+# Alexandre Pinel · 子衿
+
+**Software Architect · Senior Software Engineer · Engineering Leader · Entrepreneur**
+
+<img src="archavatarwork.webp" alt="Alex's Arch Linux hacker avatar" align="right" width="170">
+
+I work where software architecture, cybersecurity and AI meet real operational constraints.
+
+My scope runs from the shell to the system design, from reviewing code to leading engineers, from an idea to a business that has to work. I've worked across Europe and China, with teams spanning North America, Europe and East Asia.
+
+I still care about what happens underneath the abstraction. I also want machines to do as much of the work as possible.
+
+**The agents can write the code. I own the consequences.**
+
+<br clear="all">
+
+## Experience behind the terminal
+
+- **Engineering leadership:** earlier management experience spanning organisations of up to 300 people.
+- **Architecture and delivery:** enterprise applications, retail systems, web platforms, APIs, integrations and automation.
+- **Knowledge transfer:** around 15 years of workshops, mentoring and technical sessions. Architecture should survive its architect.
+- **International work:** different languages, cultures, time zones and ways of thinking. Translating requirements is only half the job.
+
+Most enterprise work lives outside this public profile. These repositories are my workshop: tools, experiments, learning notes and products.
+
+## Current operating mode
+
+I work across the AI tooling ecosystem: **Codex CLI, Claude Code, Grok Code, other coding agents and assistants, and local models**. I combine them with **orchestrators, specs, `AGENTS.md`, isolated worktrees and review gates**.
+
+The interesting problem is making the whole process reliable: keeping context, assigning ownership, testing changes, inspecting diffs and recovering when something goes wrong.
+
+An agent saying "done" is a claim. Git, tests and runtime behaviour provide the evidence.
+
+> Trust, but verify. Especially when the machine sounds confident.
+
+## Inside the workshop
+
+| Repository | What you'll find |
+| --- | --- |
+| [dotfiles](https://github.com/HaoLiHaiO/dotfiles) | My Linux configuration, including Bash setups for Arch and Ubuntu. |
+| [check-if-git](https://github.com/HaoLiHaiO/check-if-git) | A small tool for finding project directories that aren't Git repositories. Context gets interrupted. Work should remain traceable. |
+| [sys-audit](https://github.com/HaoLiHaiO/sys-audit) | A basic Linux audit script. Start by inspecting the machine. |
+
+You'll also find learning exercises and forks here. A fork is a workbench, not a claim of authorship.
+
+## Polyglot, on both sides of the keyboard
+
+**Human languages**
+
+I grew up with several languages, including German, English and Swiss German.
+
+I speak **French, German, English, Swiss German, Luxembourgish, Mandarin, Bulgarian, Russian, Japanese and Dutch, at varying levels**. I lived in China and spent years in Varna, Bulgaria.
+
+Languages are a way into people's thinking. Living somewhere teaches you things a dictionary never will.
+
+**Machine languages & tools**
+
+| Area | My toolkit |
+| --- | --- |
+| Code | TypeScript / JavaScript · Python · Go · Rust · C / C++ · Bash |
+| Web & applications | React · Next.js · Node.js · Sanity · APIs |
+| Systems & delivery | Arch Linux · Git · Docker · Kubernetes · CI/CD |
+| Security | Nmap · Burp Suite · Wireshark · Kali Linux |
+| Engineering with AI | Codex CLI · Claude Code · Grok Code · coding agents & assistants · local models · agent orchestration · repository context · automated verification |
+
+## Beyond software
+
+Machine learning, bioinformatics and the intersection of biology and computation keep pulling me into new territory.
+
+Away from the keyboard: piano, flute, golf, hiking, swimming and heading somewhere remote.
+
+Curiosity doesn't clock out.
 
 ---
 
-<h3 style="width:50%; margin: 0 auto;">💬 Let's chat!</h3>
-<p style="width:50%; margin: 0 auto;">
-  我会说普通话。I chan au Schwizerdütsch. Ech schwätzen och Lëtzebuergesch. Ich kann natürlich auch Hochdeutsch 😅 Je parle français. 日本語を少し話します。Ik kan en beetje Nederlands. Говоря български.
-</p>
+**Bring a difficult system, a sharp technical question or something worth building.**
 
----
+[alexandrepinel.com](https://alexandrepinel.com) · [Let's connect](https://www.linkedin.com/in/alexandre-pinel-045807128/)
 
-<p style="width:50%; margin: 0 auto;">
-
-  <!-- Operating Systems -->
-  <img src="https://img.shields.io/badge/OS-ArchLinux-blue?style=flat-square&logo=arch-linux" alt="Arch Linux">
-  <img src="https://img.shields.io/badge/OS-Windows10-blue?style=flat-square&logo=microsoft" alt="Windows 10">
-  <img src="https://img.shields.io/badge/OS-Windows11-blue?style=flat-square&logo=microsoft" alt="Windows 11">
-
-  <!-- Editors -->
-  <img src="https://img.shields.io/badge/Editor-VIM-green?style=flat-square&logo=vim" alt="VIM">
-  <img src="https://img.shields.io/badge/Editor-VSCode-blue?style=flat-square&logo=visual-studio-code" alt="VS Code">
-  <img src="https://img.shields.io/badge/Editor-IntelliJ-FF305D?style=flat-square&logo=intellij-idea" alt="IntelliJ IDEA">
-
-  <!-- Programming Languages -->
-  <img src="https://img.shields.io/badge/Code-Go-00ADD8?style=flat-square&logo=go" alt="Go">
-  <img src="https://img.shields.io/badge/Code-Rust-000000?style=flat-square&logo=rust" alt="Rust">
-  <img src="https://img.shields.io/badge/Code-TypeScript-3178C6?style=flat-square&logo=typescript" alt="TypeScript">
-  <img src="https://img.shields.io/badge/Code-C-00599C?style=flat-square&logo=c" alt="C">
-
-  <!-- DevOps / Containers -->
-  <img src="https://img.shields.io/badge/Tool-Docker-2496ED?style=flat-square&logo=docker" alt="Docker">
-  <img src="https://img.shields.io/badge/Tool-Kubernetes-326CE5?style=flat-square&logo=kubernetes" alt="Kubernetes">
-
-  <!-- Cybersecurity -->
-  <img src="https://img.shields.io/badge/Tools-Nmap-004170?style=flat-square" alt="Nmap">
-  <img src="https://img.shields.io/badge/Tools-Burp%20Suite-orange?style=flat-square&logo=burpsuite" alt="Burp Suite">
-  <img src="https://img.shields.io/badge/Tools-Wireshark-1679A7?style=flat-square&logo=wireshark" alt="Wireshark">
-  <img src="https://img.shields.io/badge/Tools-KaliLinux-557C94?style=flat-square&logo=kalilinux" alt="Kali Linux">
-  <img src="https://img.shields.io/badge/Tools-Metasploit-5F1A1A?style=flat-square" alt="Metasploit">
-  <img src="https://img.shields.io/badge/Tools-TryHackMe-212C42?style=flat-square&logo=tryhackme" alt="TryHackMe">
-
-</p>
-
-
----
-
-<p style="width:50%; margin: 0 auto;">
-In my free time, I enjoy working on ML-driven projects and diving into the world of bioinformatics.  
-Whether it's analyzing genetic sequences, experimenting with deep learning, or dreaming about the intersection of synthetic biology and AI, this space keeps me endlessly curious.
-</p>
-
----
-
-<p style="width:50%; margin: 0 auto;">
-  <a href="https://www.linkedin.com/in/alexandre-pinel-045807128/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://github.com/HaoLiHaiO">
-    <img src="https://img.shields.io/badge/-@HaoLiHaiO-181717?style=flat-square&logo=GitHub&logoColor=white" alt="GitHub">
-  </a>
-</p>

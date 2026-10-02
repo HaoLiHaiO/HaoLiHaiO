@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="360" viewBox="0 0 1280 360" role="img" aria-labelledby="title desc">
+<title id="title">Alexandre Pinel. Systems architect. Polyglot. Builder.</title>
+<desc id="desc">Dark terminal inspired banner with lime accents. Old-school roots. Agentic systems. Production consequences.</desc>
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#202b35" stroke-width="1"/></pattern><linearGradient id="fade"><stop stop-color="#101923"/><stop offset="1" stop-color="#080d13"/></linearGradient></defs>
+<rect width="1280" height="360" rx="16" fill="url(#fade)"/><rect width="1280" height="360" rx="16" fill="url(#grid)" opacity=".45"/>
+<rect x="48" y="48" width="4" height="264" fill="#b4f363"/>
+<g font-family="'Courier New',monospace">
+<text x="78" y="79" fill="#b4f363" font-size="17" letter-spacing="3">HAOLIHAIO / 子衿 / ALEXANDRE PINEL</text>
+<text x="76" y="153" fill="#f0f5fa" font-family="Arial,Helvetica,sans-serif" font-size="57" font-weight="700">I BUILD SYSTEMS.</text>
+<text x="78" y="197" fill="#f0f5fa" font-size="23">Architecture. Code. People. Agents.</text>
+<text x="78" y="256" fill="#a6b4c2" font-size="19">Old-school roots. Agentic systems.</text>
+<text x="78" y="285" fill="#a6b4c2" font-size="19">Production consequences.</text>
+<text x="1210" y="79" text-anchor="end" fill="#758694" font-size="15">~/systems</text>
+</g></svg>
